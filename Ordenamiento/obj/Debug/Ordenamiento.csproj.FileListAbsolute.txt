@@ -1,0 +1,6 @@
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csprojResolveAssemblyReference.cache
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+c:\users\pablo\WorkSpaceMSStudio\Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
